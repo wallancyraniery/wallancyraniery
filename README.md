@@ -23,7 +23,15 @@ Na **Improve**, participo da definição e evolução de soluções de software,
 
 Plataforma para cadastro de locadoras, gestão de frota, fotografias e valores dos veículos, vitrine pública individual e acompanhamento de interessados. Inclui autenticação, primeiro acesso assistido, isolamento entre organizações, testes e validações de segurança.
 
+<a href="projects/locorienta.md"><img src="projects/assets/locorienta/plataforma_inteligente_para_locadoras.png" width="280" alt="Mockup ilustrativo da LocOrienta com dados demonstrativos; abrir a apresentação técnica pública"></a>
+
+*Mockup ilustrativo com dados demonstrativos. Clique para conhecer a apresentação técnica.*
+
+O envio de interesse não confirma reserva nem garante disponibilidade. Reservas e pagamentos não são anunciados como operação comercial.
+
 **[Conhecer o produto](https://locacao-carros.vercel.app) · [Ver apresentação técnica pública](projects/locorienta.md)**
+
+[Fluxo do produto](projects/locorienta.md#como-a-plataforma-funciona) · [Visuais ilustrativos](projects/locorienta.md#demonstrações-visuais) · [Arquitetura e segurança](projects/locorienta.md#engenharia-e-tecnologias) · [Evidências e limites](projects/locorienta.md#evidências-e-limites-de-validação)
 
 ### ♿ [Percurso — Educação Inclusiva](https://github.com/wallancyraniery/educacao_inclusiva)
 
