@@ -33,11 +33,17 @@ O envio de interesse não confirma reserva nem garante disponibilidade. Reservas
 
 [Fluxo do produto](projects/locorienta.md#como-a-plataforma-funciona) · [Visuais ilustrativos](projects/locorienta.md#demonstrações-visuais) · [Arquitetura e segurança](projects/locorienta.md#engenharia-e-tecnologias) · [Evidências e limites](projects/locorienta.md#evidências-e-limites-de-validação)
 
-### ♿ [Percurso — Educação Inclusiva](https://github.com/wallancyraniery/educacao_inclusiva)
+### ♿ [Percurso — Educação Inclusiva](projects/percurso.md)
 
 **Repositório público · Protótipo em Discovery**
 
-Protótipo navegável com fluxo de avaliação, indicadores, habilidades, objetivos, atividades e planejamento educacional. Desenvolvido com Next.js, React, TypeScript, regras de domínio explícitas, dados fictícios e testes. **Não é uma solução clínica ou institucional validada.**
+Protótipo navegável com fluxo de avaliação, indicadores, habilidades, objetivos, atividades e composição demonstrativa de documento educacional. Desenvolvido com Next.js, React, TypeScript, regras de domínio explícitas, dados fictícios e testes. **Não é uma solução clínica ou institucional validada.**
+
+<a href="projects/percurso.md"><img src="projects/assets/percurso/painel-inicial-desktop.png" width="280" alt="Captura real do painel do Percurso com dados fictícios; abrir a apresentação técnica pública"></a>
+
+*Captura real do protótipo local com dados fictícios. Clique para conhecer a apresentação técnica.*
+
+**[Ver apresentação técnica e capturas](projects/percurso.md) · [Explorar o código público](https://github.com/wallancyraniery/educacao_inclusiva)**
 
 ## Formação e trajetória
 
