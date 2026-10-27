@@ -35,6 +35,36 @@ flowchart LR
 
 **Estado da implantação:** o fluxo de convite, senha, ativação, novo login, cadastro da locadora e acesso à Central foi validado em ambiente hospedado com identidade sintética. O primeiro cliente real recebeu o convite e está iniciando seu processo de entrada; isso **não** significa que já opere comercialmente a plataforma.
 
+## Demonstrações visuais
+
+Os mockups comerciais abaixo são **ilustrativos e usam dados demonstrativos**. Eles apresentam a proposta do produto, sem reproduzir exatamente as telas do sistema hospedado. Números, veículos e controles desenhados nas imagens são exemplos, não evidências de uso comercial.
+
+### Plataforma
+
+A LocOrienta organiza o cadastro da empresa, as informações da frota, os valores e as fotografias dos veículos, com acesso administrativo autorizado e uma vitrine pública para apresentação dos carros.
+
+![Mockup ilustrativo da LocOrienta com cadastro da locadora, gestão da frota e acesso à Central privada](assets/locorienta/plataforma_inteligente_para_locadoras.png)
+
+### Cadastro da locadora
+
+Após o convite, a definição de senha, a ativação administrativa e o novo login, o responsável configura o cadastro inicial da locadora. Essa etapa reúne dados institucionais, identificador público e informações de contato e privacidade. A entrada no piloto é assistida, sem cadastro público irrestrito.
+
+![Mockup ilustrativo do cadastro institucional com nome e identificador de uma locadora demonstrativa, cidade de testes e campo do responsável pelo tratamento dos dados](assets/locorienta/cadastre_sua_locadora_com_facilidade.png)
+
+### Gestão da frota
+
+O cadastro reúne marca e modelo, ano, cor e versão, valor semanal, estado operacional e fotografias dos veículos. Essas informações apoiam a organização da frota e a preparação da vitrine pública.
+
+### Central administrativa
+
+A Central é a área privada da locadora, com acesso autorizado aos módulos de visão geral, frota, interessados e informações institucionais. Ela apoia a gestão inicial; a presença de “Reservas” nos mockups não significa uma operação comercial completa de reservas.
+
+**Conheça a LocOrienta**
+
+[https://locacao-carros.vercel.app](https://locacao-carros.vercel.app)
+
+A Central administrativa permanece com acesso por convite durante a implantação piloto.
+
 ## Engenharia e tecnologias
 
 | Camada | Tecnologias e práticas |
