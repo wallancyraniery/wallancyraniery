@@ -1,42 +1,61 @@
 # Wallancy Raniery
 
-Backend Developer focused on **Python, PostgreSQL, SQL, REST APIs and Docker**.
+**Desenvolvedor de Software e Produto** · Backend e full-stack · Soluções SaaS para operações reais
 
-I am a Computer Science student building practical software projects with backend development, data modeling, automated testing, migrations and containerized environments. My current goal is to grow professionally as a **Backend Developer / Python Developer** while continuing to deepen my software engineering fundamentals.
+Construo software para transformar processos e necessidades de negócio em produtos digitais utilizáveis. Atuo da compreensão do problema à implementação, com atenção a **modelagem de dados, segurança, testes automatizados, arquitetura e experiência de uso**.
 
-## Core stack
+Na **Improve**, participo da definição e evolução de soluções de software, conectando estratégia de produto e execução técnica. Minha experiência anterior em operações industriais e processos SMD complementa minha forma de analisar problemas, confiabilidade e melhoria contínua.
 
-**Backend & data**  
-Python • PostgreSQL • SQL • REST APIs • Node.js • Drizzle ORM
+## Tecnologias
 
-**Development & infrastructure**  
-Docker • Git • GitHub • Linux • Automated Testing
+| Área | Stack e práticas |
+| --- | --- |
+| Backend e dados | Python, Node.js, TypeScript, PostgreSQL, SQL, APIs REST, Drizzle ORM |
+| Web | React, Next.js, JavaScript, TypeScript |
+| Infraestrutura e qualidade | Docker, Linux, Git, GitHub Actions, Supabase, Vercel, testes automatizados, CI, migrations |
+| Produto e engenharia | Discovery, modelagem de domínio, controle de acesso, integração de sistemas, documentação técnica |
 
-**Web**  
-TypeScript • Next.js • React
+## Projetos em destaque
 
-## Selected projects
+### 🚗 [LocOrienta — SaaS para locadoras de veículos](projects/locorienta.md)
 
-### [Marketplace de Shows](https://github.com/wallancyraniery/improveMarket)
+**Implantação piloto · Código-fonte privado**
 
-Marketplace in development to connect artists and establishments based on schedule, location, style and commercial conditions. The project includes PostgreSQL/PostGIS, Drizzle ORM, Docker, migrations, validation, automated tests and an isolated PostgreSQL integration environment.
+Plataforma para cadastro de locadoras, gestão de frota, fotografias e valores dos veículos, vitrine pública individual e acompanhamento de interessados. Inclui autenticação, primeiro acesso assistido, isolamento entre organizações, testes e validações de segurança.
 
-### [Locação de Carros](https://github.com/wallancyraniery/locacao_carros)
+**[Conhecer o produto](https://locacao-carros.vercel.app) · [Ver apresentação técnica pública](projects/locorienta.md)**
 
-Web platform for vehicle rental management and presentation, with PostgreSQL, Docker, Drizzle ORM, migrations, validation, automated tests and continuous integration. The project is being developed incrementally, with demonstrative data in the current interface.
+### ♿ [Percurso — Educação Inclusiva](https://github.com/wallancyraniery/educacao_inclusiva)
 
-### [Educação Inclusiva](https://github.com/wallancyraniery/educacao_inclusiva)
+**Repositório público · Protótipo em Discovery**
 
-Discovery prototype that explores a workflow from assessment to educational planning. Built with Next.js, React and TypeScript, with domain modeling, transparent business rules, automated tests and accessibility considerations.
+Protótipo navegável com fluxo de avaliação, indicadores, habilidades, objetivos, atividades e planejamento educacional. Desenvolvido com Next.js, React, TypeScript, regras de domínio explícitas, dados fictícios e testes. **Não é uma solução clínica ou institucional validada.**
 
-## Background
+### 🎵 [Marketplace de Shows](https://github.com/wallancyraniery/improveMarket)
 
-Before moving into software development, I worked in electronics manufacturing and SMD process engineering, where I gained experience with troubleshooting, automation, data analysis, traceability and continuous improvement. I now bring that problem-solving mindset into software development.
+**Repositório público · Em desenvolvimento**
 
-## Currently looking for
+Produto experimental que explora a conexão entre artistas e estabelecimentos. Utiliza Next.js, TypeScript, PostgreSQL/PostGIS, Drizzle ORM, Docker, validação de dados e testes automatizados, incluindo integração com PostgreSQL isolado.
 
-Junior opportunities in **Backend Development, Python Development or related software engineering roles**, where I can contribute with practical project experience while continuing to evolve technically.
+## Formação e trajetória
 
-## Contact
+Curso **Ciência da Computação**, com previsão de conclusão em **dezembro de 2028**. Trago experiência anterior em operações industriais, análise de processos, resolução de problemas e melhoria contínua para o desenvolvimento de software.
 
-[LinkedIn](https://www.linkedin.com/in/wallancyraniery/) • [GitHub](https://github.com/wallancyraniery)
+## Oportunidades e colaboração
+
+Tenho interesse em posições de **desenvolvimento backend ou full-stack**, além de projetos e parcerias para digitalização de operações e criação de produtos. Disponível para trabalho remoto, híbrido, presencial e mudança de cidade.
+
+**Contato:** [LinkedIn](https://www.linkedin.com/in/wallancyraniery/) · [GitHub](https://github.com/wallancyraniery)
+
+---
+
+<details>
+<summary>English summary</summary>
+
+Software developer working across **backend, full-stack engineering and product development**, with experience in TypeScript, Next.js, React, Python, PostgreSQL, Docker, Supabase, and automated testing.
+
+I help build practical software solutions for operational problems, from requirements and product decisions to architecture, implementation, security and validation. Current highlights include **LocOrienta** (private-code SaaS in pilot deployment), a public inclusive-education discovery prototype and a public live-music marketplace project.
+
+Open to backend/full-stack roles, software projects and collaboration.
+
+</details>
