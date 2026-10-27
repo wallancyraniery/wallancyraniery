@@ -31,12 +31,6 @@ Plataforma para cadastro de locadoras, gestão de frota, fotografias e valores d
 
 Protótipo navegável com fluxo de avaliação, indicadores, habilidades, objetivos, atividades e planejamento educacional. Desenvolvido com Next.js, React, TypeScript, regras de domínio explícitas, dados fictícios e testes. **Não é uma solução clínica ou institucional validada.**
 
-### 🎵 [Marketplace de Shows](https://github.com/wallancyraniery/improveMarket)
-
-**Repositório público · Em desenvolvimento**
-
-Produto experimental que explora a conexão entre artistas e estabelecimentos. Utiliza Next.js, TypeScript, PostgreSQL/PostGIS, Drizzle ORM, Docker, validação de dados e testes automatizados, incluindo integração com PostgreSQL isolado.
-
 ## Formação e trajetória
 
 Curso **Ciência da Computação**, com previsão de conclusão em **dezembro de 2028**. Trago experiência anterior em operações industriais, análise de processos, resolução de problemas e melhoria contínua para o desenvolvimento de software.
@@ -54,7 +48,7 @@ Tenho interesse em posições de **desenvolvimento backend ou full-stack**, alé
 
 Software developer working across **backend, full-stack engineering and product development**, with experience in TypeScript, Next.js, React, Python, PostgreSQL, Docker, Supabase, and automated testing.
 
-I help build practical software solutions for operational problems, from requirements and product decisions to architecture, implementation, security and validation. Current highlights include **LocOrienta** (private-code SaaS in pilot deployment), a public inclusive-education discovery prototype and a public live-music marketplace project.
+I help build practical software solutions for operational problems, from requirements and product decisions to architecture, implementation, security and validation. Current highlights include **LocOrienta** (private-code SaaS in pilot deployment) and **Percurso**, a public inclusive-education discovery prototype.
 
 Open to backend/full-stack roles, software projects and collaboration.
 
